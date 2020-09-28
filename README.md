@@ -1,2 +1,2 @@
-# Git5-Merge-Conflicts-Quest
+REMOTE
 J'aime pas cette quête!
