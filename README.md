@@ -1,2 +1,2 @@
-# Git5-Merge-Conflicts-Quest
+Local
 J'aime pas cette quête!
